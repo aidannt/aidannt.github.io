@@ -8,9 +8,9 @@
   <p class="text-[1.2rem] mb-6">
     <span class="font-semibold tracking-wide">Email</span>:
     <a
-      href="mailto:aidantomcy@gmail.com"
+      href="mailto:aidannnnt@gmail.com"
       class="dark:text-gray-200 hover:underline hover:decoration-sky-500 hover:decoration-wavy"
-      >aidantomcy@gmail.com</a
+      >aidannnnt@gmail.com</a
     > <br />
     <span class="font-semibold tracking-wide">Phone</span>: (I don't have a
     phone)
